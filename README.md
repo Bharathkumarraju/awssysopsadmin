@@ -1,2 +1,2 @@
 # awssysopsadmin
-sysopsadminpreparation
+sysopsadminpreparation....https://aws.amazon.com/certification/recertification/
