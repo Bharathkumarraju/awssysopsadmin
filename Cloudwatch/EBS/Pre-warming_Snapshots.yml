@@ -2,3 +2,5 @@
 Snapshots:
   Pre-warm:
      - "Pre-warm"
+     - "sudo dd if=/dev/xvdf of=/dev/null bs=1M"
+     - "sudo fio --filename=/dev/xvdf --rw=read --bs=128k --iodepth=32 --ioengine=libaio --direct=1 --name=volume-initialize"
