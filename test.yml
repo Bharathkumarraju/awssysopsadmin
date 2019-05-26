@@ -1,0 +1,13 @@
+--- # Prepare for AWS Sysops admin exam
+
+Prepare:
+  Hard:
+     - "EC2"
+     - "S3"
+     - "VPC"
+     - "CFN"
+     - "Route53"
+     - "RDS"
+     - "Lambda"
+     - "DynamoDB"
+     - "ECS"
