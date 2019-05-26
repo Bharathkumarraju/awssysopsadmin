@@ -1,0 +1,8 @@
+--- # What to monitor
+
+monitor:
+  Hostlevel:
+    - "CPU"
+    - "Network"
+    - "Disk"
+    - "Status Check"
