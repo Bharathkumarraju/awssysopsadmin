@@ -1,0 +1,10 @@
+--- #
+Tags: 
+  - "sometimes can be Inherited" 
+ResourceGroups: 
+  - "Group AWS Resources using Tags assigned to them, You can group resources that share one or more Tags"
+  - "It contains info such as  Region, Name, Health Checks"
+  - "It contains specific info such as for EC2-Public & Private IP Addresses, for ELB-Port Configurations, for RDS-Database Engine etc.."
+Two AWS Resource Groups: 
+  - "1. Classic Resource Groups - Global" 
+  - "2. AWS System Manager Resource Groups"
