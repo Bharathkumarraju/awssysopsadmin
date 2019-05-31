@@ -1,0 +1,8 @@
+--- # Useful Features
+features:
+  feature1:
+    - "Automate AWS Account Creation"
+    - "AWS Organizations APIs to automate the creation and management of new AWS Accounts"
+    - "The Organization APOs enable you to create new accounts programmatically, and to add the new accounts to a Group"
+  feature2:
+    - "Consoldated Billing"
