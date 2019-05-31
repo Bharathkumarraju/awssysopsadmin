@@ -1,0 +1,7 @@
+Tools:
+  Cloudwatch: 
+    - "Monitors AWS Resource Performance" 
+  CloudTrail: 
+    - "Monitors the API calss and tell you who created the Web Security Group 3 Weeks before" 
+  AWSConfig:
+    - "Records the Entire AWS infra...tells you what are the Web Security Group inbound rules created 3 weeks before and Updated Inbound rules as well."
