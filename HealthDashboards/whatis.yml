@@ -1,0 +1,7 @@
+Dashboards:
+  ServieHealthDashboard:
+    - "https://status.aws.amazon.com/"
+  PersonalHealthDashboard:
+    - "If any AWS is experiencing any events impacting customers based on their regions...it is specific to customer"
+
+    
