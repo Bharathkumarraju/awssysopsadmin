@@ -59,4 +59,12 @@ VALUES
     (3,5,1),
     (3,7,2);
 
+# --------------------------------------------------------------------------
+
+CREATE TABLE authors (id INT, name VARCHAR(20), email VARCHAR(20));
+
+INSERT INTO authors (id,name,email) VALUES(3,"Tom","tom@yahoo.com");
+
+
+
 
