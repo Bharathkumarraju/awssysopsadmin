@@ -1,0 +1,20 @@
+{
+    "Id": "Policy1559413435701",
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1559413431262",
+        "Action": [
+          "s3:PutObject"
+        ],
+        "Effect": "Deny",
+        "Resource": "arn:aws:s3:::hanuman-bharath-encryptedfiles",
+        "Condition": {
+          "StringNotEquals": {
+            "s3:x-amz-server-side-encryption": "aws:kms"
+          }
+        },
+        "Principal": "*"
+      }
+    ]
+  }
