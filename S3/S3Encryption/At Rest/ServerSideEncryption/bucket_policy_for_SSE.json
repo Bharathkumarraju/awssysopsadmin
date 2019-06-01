@@ -8,7 +8,7 @@
           "s3:PutObject"
         ],
         "Effect": "Deny",
-        "Resource": "arn:aws:s3:::hanuman-bharath-encryptedfiles",
+        "Resource": "arn:aws:s3:::hanuman-bharath-encryptedfiles/*",
         "Condition": {
           "StringNotEquals": {
             "s3:x-amz-server-side-encryption": "aws:kms"
